@@ -24,7 +24,7 @@ Pivot Charts
 Slicers
 Conditional Formatting
 Dashboard Design
-📷 Dashboard Preview
+![Dashboard](blinkit_dashboard.png)
 
 📊 Key Metrics
 Metric	Value
