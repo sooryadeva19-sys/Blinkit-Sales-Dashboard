@@ -9,6 +9,7 @@ Pivot Tables
 Pivot Charts
 Slicers
 KPI Cards
+
 Excel Dashboard Design Techniques
 
 The project focuses on understanding:
@@ -31,24 +32,25 @@ Metric	Value
 Total Orders	10,573
 Total Customers	1,001
 Average Order Value	₹1086.83
-📈 Dashboard Features
-1. KPI Summary Cards
 
+📈 Dashboard Features
+
+1. KPI Summary Cards
 Displays:
 
 Total Orders
 Customer Count
 Average Order Value
-2. Customer Segment Analysis
 
+2. Customer Segment Analysis
 Pie chart showing distribution of:
 
 Inactive Customers
 New Customers
 Premium Customers
 Regular Customers
-3. Total Orders by Area
 
+3. Total Orders by Area
 Horizontal bar chart comparing orders across different cities/areas such as:
 
 Orai
@@ -58,29 +60,30 @@ Bhopal
 Chennai
 Kadapa
 And more
-4. Average Order Value by Customer Segment
 
+4. Average Order Value by Customer Segment
 Analyzes spending patterns among:
 
 Inactive
 New
 Premium
 Regular customers
+
 5. Registration Trend Analysis
 
 Line chart showing customer registration trends across:
 
 2023
 2024
-🎛 Interactive Filters (Slicers)
 
+🎛 Interactive Filters (Slicers)
 Users can dynamically filter the dashboard using:
 
 Customer Segment
 Registration Year
 Segment Orders
-📂 Dataset Information
 
+📂 Dataset Information
 The dataset contains:
 
 Customer IDs
@@ -90,12 +93,14 @@ Customer segments
 Registration dates
 Order values
 Sales metrics
+
 🎯 Objectives of the Project
 Analyze customer purchasing behavior
 Identify high-performing regions
 Track customer registration growth
 Compare customer segments
 Create an interactive business dashboard
+
 🚀 Skills Demonstrated
 Data Cleaning
 Data Visualization
@@ -103,6 +108,7 @@ Dashboard Designing
 Business Analysis
 Excel Automation Concepts
 Analytical Thinking
+
 📌 Future Improvements
 Add monthly revenue analysis
 Add delivery performance tracking
